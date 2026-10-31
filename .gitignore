@@ -1,0 +1,13 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Development preview screenshots & scratch test images
+/*.png
+/test_card_bg.jpg
+
+# Python cache
+__pycache__/
+*.pyc
